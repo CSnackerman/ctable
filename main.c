@@ -3,7 +3,7 @@
 
 #include "table.h"
 
-// define header fields
+// define header fields.
 #define ID 0
 #define ADDRESS 1
 #define VALUE 2
